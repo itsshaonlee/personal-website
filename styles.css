@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,300;0,400;0,500;1,400&display=swap');
+
+/* ── Palette ───────────────────────────────────────────
+   #282E17  deep olive-black    sidebar background
+   #C1522A  terracotta          accent / links / active
+   #879758  mid olive           muted nav / dividers
+   #48522D  dark olive          headings emphasis
+   #D8CCB0  warm linen          sidebar text / borders
+   #F7F4EE  warm off-white      page background
+   #433F35  warm dark           body text
+──────────────────────────────────────────────────────── */
+
+/* Base */
+body {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 400;
+  background-color: #F7F4EE;
+  color: #433F35;
+  line-height: 1.85;
+  font-size: 15px;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+  font-weight: 300;
+  color: #211E19;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+  margin-bottom: 1.2rem;
+}
+
+h1 { font-size: 2rem; }
+h2 { font-size: 1.4rem; font-weight: 500; color: #48522D; }
+h3 { font-size: 1.1rem; font-weight: 500; color: #433F35; }
+
+/* Links */
+a {
+  color: #C1522A;
+  text-decoration: none;
+  border-bottom: 1px solid #e8a888;
+  transition: border-color 0.15s;
+}
+
+a:hover {
+  border-bottom-color: #C1522A;
+}
+/* Sidebar background */
+#quarto-sidebar,
+.sidebar.sidebar-docked,
+div.sidebar {
+  background-color: #282E17 !important;
+}
+
+/* Sidebar nav links */
+#quarto-sidebar .nav-link,
+#quarto-sidebar a {
+  color: #AABE70 !important;
+  font-size: 0.85rem;
+  letter-spacing: 0.04em;
+  border-left: 2px solid transparent;
+  border-bottom: none !important;
+  padding-left: 0.6rem;
+}
+
+#quarto-sidebar .nav-link:hover,
+#quarto-sidebar .nav-link.active {
+  color: #D8CCB0 !important;
+  border-left: 2px solid #C1522A !important;
+  border-bottom: none !important;
+  background: transparent !important;
+}
+
+/* Remove the divider lines between nav items */
+#quarto-sidebar .sidebar-item {
+  border-bottom: none !important;
+}
+
+#quarto-sidebar .sidebar-item-container {
+  border-bottom: none !important;
+}
+
+/* Page content */
+.page-layout-article .column-body,
+.page-layout-full .column-body {
+  max-width: 680px;
+}
+
+/* Spacing */
+p { margin-bottom: 1.1rem; }
+
+h1 { margin-bottom: 2rem; margin-top: 0.5rem; }
+
+/* Blockquote / accent block */
+blockquote {
+  border-left: 3px solid #C1522A;
+  background: #F5EAE4;
+  border-radius: 0 6px 6px 0;
+  padding: 1rem 1.4rem;
+  margin: 1.8rem 0;
+  font-weight: 300;
+  color: #433F35;
+}
+
+blockquote p { margin: 0; }
+
+/* Tags / badges */
+.tag {
+  display: inline-block;
+  font-size: 0.68rem;
+  padding: 3px 9px;
+  border-radius: 2px;
+  letter-spacing: 0.06em;
+  font-weight: 500;
+  text-transform: uppercase;
+  background: #F0E0D8;
+  color: #8B3520;
+}
+
+/* Tabset panels */
+.panel-tabset .nav-link {
+  color: #879758 !important;
+  font-size: 0.85rem;
+  letter-spacing: 0.03em;
+}
+
+.panel-tabset .nav-link.active {
+  color: #211E19 !important;
+  border-bottom: 2px solid #C1522A !important;
+}
+
+/* Horizontal rules */
+hr {
+  border: none;
+  border-top: 1px solid #D8CCB0;
+  margin: 2rem 0;
+}
+
+/* Footer */
+.nav-footer {
+  background-color: #282E17 !important;
+  border-top: 1px solid #48522D !important;
+  padding: 0.8rem 1.5rem;
+  font-size: 0.8rem;
+  letter-spacing: 0.04em;
+}
+
+.nav-footer a {
+  color: #AABE70 !important;
+  border-bottom: none !important;
+}
+
+.nav-footer a:hover {
+  color: #D8CCB0 !important;
+}
+
+.nav-footer-center,
+.nav-footer-left,
+.nav-footer-right {
+  color: #879758 !important;
+}

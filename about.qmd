@@ -1,0 +1,29 @@
+---
+title: "About"
+toc: false
+---
+
+I am an economic geographer and post-doctoral researcher working at the intersection 
+of urban economics, institutional history, and satellite remote sensing.
+
+I grew up in India, and questions about cities — why some grow and others don't, 
+who gets to own a home, and how the past casts long shadows on the present — have 
+shaped my research from the beginning. My PhD at LSE's Department of Geography and 
+Environment examined how colonial institutions and contemporary financial markets 
+together produce persistent patterns of spatial inequality and urban development in 
+India. One strand traced how the opium trade financed early capital accumulation and 
+shaped which cities grew. Another used the rollout of housing finance institutions 
+in the 1990s to study how mortgage access changed tenure choice across social groups. 
+A third examined how colonial land tenure arrangements in Mumbai continue to constrain 
+formal residential construction today.
+
+I am currently a Post-Doctoral Research Associate at [Imago](https://imago.liverpool.ac.uk), 
+the UKRI Imagery Data Service at the University of Liverpool. Here, I work on 
+the Sun Probability Framework — a satellite data project that uses high-resolution Sentinel-2 cloud masks to make a measure of sunlight exposure across Great Britain. More broadly, I am excited about bringing satellite-derived environmental data to bear on questions about 
+equity, development, and housing in the Global South, where administrative data is 
+often scarce or unreliable.
+
+Before my PhD, I worked at the Centre for Social and Economic Policy (formerly 
+Brookings Institution India Center) in New Delhi, where I worked on housing, property rights, and urban infrastructure. I hold a Master's degree in Urban Policy and Governance from the Tata Institute of Social Sciences, Mumbai, and an undergraduate degree in Economics from the University of Delhi.
+
+Outside research, I mentor young women from South Asia who are pursuing careers in economics and policy. 
