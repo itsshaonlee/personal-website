@@ -4,17 +4,29 @@ project:
 
 website:
   title: "Shaonlee Patranabis"
-  navbar:
-    left:
+  sidebar:
+    style: "docked"
+    search: false
+    contents:
       - href: index.qmd
         text: Home
       - href: research.qmd
         text: Research
       - href: cv.qmd
         text: CV
-
+      - href: about.qmd
+        text: About
+    tools:
+      - icon: envelope
+        href: mailto:S.Patranabis@liverpool.ac.uk
+      - icon: github
+        href: https://github.com/itsshaonlee
+      - icon: book
+        href: https://scholar.google.com/citations?user=pqWmC4gAAAAJ&hl=en
 format:
   html:
-    theme: lumen      # or: flatly, lumen, litera, simplex, cosmo
+    theme: lux
     css: styles.css
-    toc: false
+    toc: true
+    toc-depth: 2
+    highlight-style: github

@@ -1,7 +1,7 @@
 ---
 title: "Shaonlee Patranabis"
 about:
-  template: jolla
+  template: trestles
   image: profile.jpg
   links:
     - icon: envelope
@@ -10,16 +10,13 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/itsshaonlee
-    - icon: mortarboard-fill
+    - icon: book
       text: Google Scholar
       href: https://scholar.google.com/citations?user=pqWmC4gAAAAJ&hl=en
 ---
---
 
-I recently completed my PhD at LSE's Department of Geography and Environment, where I was part of the Economic Geography Cluster. My thesis examined how institutional arrangements, from colonial opium trade networks to contemporary mortgage market, shape persistent patterns of spatial inequality and urban development in India.
+Economic geographer and post-doctoral researcher at [Imago](https://imago.liverpool.ac.uk), University of Liverpool. I work with satellite imagery and spatial analysis, with a particular interest in cities in the Global South.
 
-I am currently a Post-Doctoral Research Associate at Imago, School of Environmental Sciences, University of Liverpool, where I work with satellite-derived environmental data and spatial analysis. I'm especially excited about translating these methods for cities and regions in the Global South, where satellite imagery can help address questions about equity, development, and housing that would otherwise be impossible to answer systematically.
-
-Previously, I worked at the Centre for Social and Economic Policy (formerly Brookings Institution India Center), New Delhi, where I worked on projects centered on housing and property rights. I hold a Master's degree from Tata Institute of Social Sciences, where I specialised in Urban Policy and Governance, and an undergraduate degree from the University of Delhi.
+My PhD at LSE examined how colonial institutions and mortgage markets shape urban inequality in India.
 
 I love making maps, petting cats, and exploring cities.

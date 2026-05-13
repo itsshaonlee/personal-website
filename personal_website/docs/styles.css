@@ -1,1 +1,22 @@
 /* css styles */
+/* Space out paper entries */
+.panel-tabset p {
+  margin-bottom: 1.4rem;
+}
+
+/* Make paper titles feel like headings */
+.panel-tabset strong a {
+  color: #2d2d2d;
+  text-decoration: none;
+  border-bottom: 1px solid #aaa;
+}
+
+.panel-tabset strong a:hover {
+  border-bottom: 1px solid #2d2d2d;
+}
+
+/* If you wrap your name in a span */
+.author-self {
+  font-style: italic;
+  font-weight: 500;
+}
