@@ -1,22 +1,30 @@
 ---
-title: "Shaonlee Patranabis"
-about:
-  template: trestles
-  image: profile.jpg
-  links:
-    - icon: envelope
-      text: Email
-      href: mailto:S.Patranabis@liverpool.ac.uk
-    - icon: github
-      text: GitHub
-      href: https://github.com/itsshaonlee
-    - icon: book
-      text: Google Scholar
-      href: https://scholar.google.com/citations?user=pqWmC4gAAAAJ&hl=en
+title: ""
+page-layout: article
+toc: false
 ---
+
+:::: {.columns}
+::: {.column width="30%"}
+![](profile.jpg){style="border-radius: 50%; width: 180px; display: block; margin: 0 auto 1.2rem;"}
+
+<div style="text-align: center; font-size: 0.8rem; letter-spacing: 0.04em; line-height: 2;">
+[✉ Email](mailto:S.Patranabis@liverpool.ac.uk)  
+[GitHub](https://github.com/itsshaonlee)  
+[Google Scholar](https://scholar.google.com/citations?user=pqWmC4gAAAAJ)
+</div>
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="65%"}
+### Shaonlee Patranabis
 
 Economic geographer and post-doctoral researcher at [Imago](https://imago.liverpool.ac.uk), University of Liverpool. I work with satellite imagery and spatial analysis, with a particular interest in cities in the Global South.
 
-My PhD at LSE examined how colonial institutions and mortgage markets shape urban inequality in India.
+My PhD at LSE examined how colonial institutions and contemporary mortgage markets shape spatial inequality and urban development in India.
 
 I love making maps, petting cats, and exploring cities.
+:::
+::::

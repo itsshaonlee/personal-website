@@ -2,6 +2,9 @@ project:
   type: website
   output-dir: docs
 
+execute:
+  freeze: auto
+  
 website:
   title: "Shaonlee Patranabis"
   sidebar:
@@ -10,19 +13,26 @@ website:
     contents:
       - href: index.qmd
         text: Home
+      - href: about.qmd
+        text: About
       - href: research.qmd
         text: Research
       - href: cv.qmd
         text: CV
-      - href: about.qmd
-        text: About
-    tools:
-      - icon: envelope
+
+  page-footer:
+    left: "Shaonlee Patranabis"
+    center:
+      - text: "Email"
         href: mailto:S.Patranabis@liverpool.ac.uk
-      - icon: github
+      - text: "GitHub"
         href: https://github.com/itsshaonlee
-      - icon: book
+      - text: "Google Scholar"
         href: https://scholar.google.com/citations?user=pqWmC4gAAAAJ&hl=en
+      - text: "ORCID"
+        href: https://orcid.org/0000-0003-1480-0650
+    right: "© 2025"
+
 format:
   html:
     theme: lux

@@ -1,2 +1,26 @@
 /.quarto/
 **/*.quarto_ipynb
+# Quarto build artifacts
+/.quarto/
+*_cache/
+*_files/
+
+# Don't commit rendered output — GitHub Actions builds this
+/docs/
+
+# R artifacts (if using R chunks)
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python artifacts (if using Python chunks)
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/

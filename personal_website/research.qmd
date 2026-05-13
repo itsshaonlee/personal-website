@@ -5,39 +5,39 @@ toc: false
 
 ::: {.panel-tabset}
 
+## Publications
+
+
+**[Insecure property rights and the housing market: Explaining India's housing vacancy paradox](https://doi.org/10.1016/j.jue.2022.103490)**  
+Sahil Gandhi, Richard K. Green, and [Shaonlee Patranabis]{.author-self} 
+*Journal of Urban Economics*, 131, 2022.  
+*India has millions of vacant homes alongside acute housing shortages...*
+
+---
+
+**[Infrastructure, enforcement, and COVID-19 in Mumbai slums: A first look](https://doi.org/10.1111/JORS.12552)**  
+Vaidehi Tandel, Sahil Gandhi, Shaonlee Patranabis, Luís M.A. Bettencourt, and Anup Malani.  
+*Journal of Regional Science*, 2021.
+
 ## Working Papers
 
-**[Opium of the Masses: Early Capitalists, Opium and Urbanisation in India]**  
+**Opium of the Masses: Early Capitalists, Opium and Urbanisation in India**  
 Shaonlee Patranabis. 2025.  
 *Traces how colonial opium trade networks shaped patterns of early capital accumulation and urbanisation in India, with persistent effects on city size today.*
 
 ---
 
-**[Mortgage, Discrimination, and Tenure Choice in India]**  
+**Mortgage, Discrimination, and Tenure Choice in India**  
 Shaonlee Patranabis. 2025.  
 *Examines the rapid shift from renting to homeownership in Indian cities during the 1990s, exploiting the rollout of housing finance institutions to identify the causal effect of mortgage access on tenure choice.*  
 
 
 ---
 
-**[Colonial Legacies and Housing Markets: Evidence from Mumbai]**  
+**Colonial Legacies and Housing Markets: Evidence from Mumbai**  
 Shaonlee Patranabis. 2024.  
 *How did colonial land tenure arrangements shape modern housing markets? Using quasi-experimental variation in Mumbai, this paper traces the long shadow of colonial property regimes on contemporary urban outcomes.*  
 Presented at the Early Career Conference in Land Economy, Cambridge (2023); UEA Copenhagen (2023).
-
-## Publications
-
-**Insecure property rights and the housing market: Explaining India's housing vacancy paradox**  
-Sahil Gandhi, Richard K. Green, and Shaonlee Patranabis.  
-*Journal of Urban Economics*, 131, 2022. [Link](https://doi.org/10.1016/j.jue.2022.103490)  
-*India has millions of vacant homes alongside acute housing shortages. This paper shows that insecure property rights explain this paradox, as owners leave units vacant rather than risk losing them to tenants.*
-
----
-
-**Infrastructure, enforcement, and COVID-19 in Mumbai slums: A first look**  
-Vaidehi Tandel, Sahil Gandhi, Shaonlee Patranabis, Luís M.A. Bettencourt, and Anup Malani.  
-*Journal of Regional Science*, 2021. [Link](https://doi.org/10.1111/JORS.12552)  
-*Examines how infrastructure deficits and enforcement capacity shaped the early spread of COVID-19 across Mumbai's slum settlements.*
 
 ## Policy Work
 
