@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Shaonlee Patranabis",
+    "section": "",
+    "text": "–\nI recently completed my PhD at LSE’s Department of Geography and Environment, where I was part of the Economic Geography Cluster. My thesis examined how institutional arrangements, from colonial opium trade networks to contemporary mortgage market, shape persistent patterns of spatial inequality and urban development in India.\nI am currently a Post-Doctoral Research Associate at Imago, School of Environmental Sciences, University of Liverpool, where I work with satellite-derived environmental data and spatial analysis. I’m especially excited about translating these methods for cities and regions in the Global South, where satellite imagery can help address questions about equity, development, and housing that would otherwise be impossible to answer systematically.\nPreviously, I worked at the Centre for Social and Economic Policy (formerly Brookings Institution India Center), New Delhi, where I worked on projects centered on housing and property rights. I hold a Master’s degree from Tata Institute of Social Sciences, where I specialised in Urban Policy and Governance, and an undergraduate degree from the University of Delhi.\nI love making maps, petting cats, and exploring cities."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Opium of the Masses: Early Capitalists, Opium and Urbanisation in India\nShaonlee Patranabis. 2025.\nTraces how colonial opium trade networks shaped patterns of early capital accumulation and urbanisation in India, with persistent effects on city size today.\nMortgage, Discrimination, and Tenure Choice in India\nShaonlee Patranabis. 2025.\nExamines the rapid shift from renting to homeownership in Indian cities during the 1990s, exploiting the rollout of housing finance institutions to identify the causal effect of mortgage access on tenure choice. Presented at the Lisbon Urban and Public Economics Micro Workshop, ISEG (2025).\nColonial Legacies and Housing Markets: Evidence from Mumbai\nShaonlee Patranabis. 2024.\nHow did colonial land tenure arrangements shape modern housing markets? Using quasi-experimental variation in Mumbai, this paper traces the long shadow of colonial property regimes on contemporary urban outcomes.\nPresented at the Early Career Conference in Land Economy, Cambridge (2023); UEA Copenhagen (2023)."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Coming soon."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "Opium of the Masses: Early Capitalists, Opium and Urbanisation in India\nShaonlee Patranabis. 2025.\nTraces how colonial opium trade networks shaped patterns of early capital accumulation and urbanisation in India, with persistent effects on city size today.\nMortgage, Discrimination, and Tenure Choice in India\nShaonlee Patranabis. 2025.\nExamines the rapid shift from renting to homeownership in Indian cities during the 1990s, exploiting the rollout of housing finance institutions to identify the causal effect of mortgage access on tenure choice. Presented at the Lisbon Urban and Public Economics Micro Workshop, ISEG (2025).\nColonial Legacies and Housing Markets: Evidence from Mumbai\nShaonlee Patranabis. 2024.\nHow did colonial land tenure arrangements shape modern housing markets? Using quasi-experimental variation in Mumbai, this paper traces the long shadow of colonial property regimes on contemporary urban outcomes.\nPresented at the Early Career Conference in Land Economy, Cambridge (2023); UEA Copenhagen (2023)."
+  },
+  {
+    "objectID": "research.html#peer-reviewed-publications",
+    "href": "research.html#peer-reviewed-publications",
+    "title": "Research",
+    "section": "Peer-Reviewed Publications",
+    "text": "Peer-Reviewed Publications\nInsecure property rights and the housing market: Explaining India’s housing vacancy paradox\nSahil Gandhi, Richard K. Green, and Shaonlee Patranabis.\nJournal of Urban Economics, 131, 2022. Link\nIndia has millions of vacant homes alongside acute housing shortages. This paper shows that insecure property rights explain this paradox, as owners leave units vacant rather than risk losing them to tenants.\nInfrastructure, enforcement, and COVID-19 in Mumbai slums: A first look\nVaidehi Tandel, Sahil Gandhi, Shaonlee Patranabis, Luís M.A. Bettencourt, and Anup Malani.\nJournal of Regional Science, 2021. Link\nExamines how infrastructure deficits and enforcement capacity shaped the early spread of COVID-19 across Mumbai’s slum settlements."
+  },
+  {
+    "objectID": "research.html#policy-work",
+    "href": "research.html#policy-work",
+    "title": "Research",
+    "section": "Policy Work",
+    "text": "Policy Work\nIndia’s housing paradox: Empty houses and housing shortages\nSahil Gandhi, Richard K. Green, and Shaonlee Patranabis.\nCSEP Policy Brief, February 2021. Link\nPolicy brief accompanying the JUE paper, aimed at policymakers addressing housing affordability in Indian cities.\nCan Property Rights Improve Access to Toilets for the Urban Poor? Evidence from India\nShaonlee Patranabis and Sahil Gandhi.\nCSEP Working Papers, October 2021. Link\nExplores whether formalising land tenure for slum dwellers improves access to sanitation, with implications for India’s Swachh Bharat mission.\nAre slums more vulnerable to the COVID-19 pandemic: Evidence from Mumbai\nShaonlee Patranabis, Vaidehi Tandel, and Sahil Gandhi.\nCSEP India, April 2020. Link\nEarly-pandemic analysis of differential COVID-19 vulnerability across Mumbai neighbourhoods, highlighting the role of density and infrastructure. Accompanies the JRS paper.\nTragedy of the commons: How Smart Streets favor the elite\nShaonlee Patranabis.\nUrban Resources Knowledges, TISS, January 2018. Link\nA critical look at how smart city infrastructure projects in Pune tend to displace informal users and reproduce spatial inequality."
+  },
+  {
+    "objectID": "research.html#projects",
+    "href": "research.html#projects",
+    "title": "Research",
+    "section": "Projects",
+    "text": "Projects\nSun Probability Framework (SPF)\nUniversity of Liverpool, Imago — ongoing\nThe Sun Probability Framework is a satellite data fusion project that combines Sentinel-2 cloud probability data with HADUK-Grid sunshine hours to generate high-resolution environmental indices of sunlight exposure across Great Britain. The project uses regression-based downscaling and spatiotemporal fusion methods to produce granular, policy-relevant measures of the built environment — with applications ranging from health and wellbeing research to business performance analysis. Developed at Imago, the Smart Data Research UK Imagery Data Service."
+  }
+]

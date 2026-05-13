@@ -1,0 +1,66 @@
+---
+title: "Research"
+toc: false
+---
+
+## Working Papers
+**Opium of the Masses: Early Capitalists, Opium and Urbanisation in India**  
+Shaonlee Patranabis. 2025.  
+*Traces how colonial opium trade networks shaped patterns of early capital accumulation and urbanisation in India, with persistent effects on city size today.*
+
+**Mortgage, Discrimination, and Tenure Choice in India**  
+Shaonlee Patranabis. 2025.  
+*Examines the rapid shift from renting to homeownership in Indian cities during the 1990s, exploiting the rollout of housing finance institutions to identify the causal effect of mortgage access on tenure choice.*
+Presented at the Lisbon Urban and Public Economics Micro Workshop, ISEG (2025).
+
+**Colonial Legacies and Housing Markets: Evidence from Mumbai**  
+Shaonlee Patranabis. 2024.  
+*How did colonial land tenure arrangements shape modern housing markets? Using quasi-experimental variation in Mumbai, this paper traces the long shadow of colonial property regimes on contemporary urban outcomes.*  
+Presented at the Early Career Conference in Land Economy, Cambridge (2023); UEA Copenhagen (2023).
+
+---
+
+## Peer-Reviewed Publications
+
+**Insecure property rights and the housing market: Explaining India's housing vacancy paradox**  
+Sahil Gandhi, Richard K. Green, and Shaonlee Patranabis.  
+*Journal of Urban Economics*, 131, 2022. [Link](https://doi.org/10.1016/j.jue.2022.103490)  
+*India has millions of vacant homes alongside acute housing shortages. This paper shows that insecure property rights explain this paradox, as owners leave units vacant rather than risk losing them to tenants.*
+
+**Infrastructure, enforcement, and COVID-19 in Mumbai slums: A first look**  
+Vaidehi Tandel, Sahil Gandhi, Shaonlee Patranabis, Luís M.A. Bettencourt, and Anup Malani.  
+*Journal of Regional Science*, 2021. [Link](https://doi.org/10.1111/JORS.12552)  
+*Examines how infrastructure deficits and enforcement capacity shaped the early spread of COVID-19 across Mumbai's slum settlements.*
+
+---
+
+## Policy Work
+
+**India's housing paradox: Empty houses and housing shortages**  
+Sahil Gandhi, Richard K. Green, and Shaonlee Patranabis.  
+*CSEP Policy Brief*, February 2021. [Link](https://csep.org/policy-brief/indias-housing-paradox-empty-houses-and-housing-shortages/)  
+*Policy brief accompanying the JUE paper, aimed at policymakers addressing housing affordability in Indian cities.*
+
+**Can Property Rights Improve Access to Toilets for the Urban Poor? Evidence from India**  
+Shaonlee Patranabis and Sahil Gandhi.  
+*CSEP Working Papers*, October 2021. [Link](https://csep.org/working-paper/can-property-rights-improve-access-to-toilets-for-the-urban-poor-evidence-from-india/)  
+*Explores whether formalising land tenure for slum dwellers improves access to sanitation, with implications for India's Swachh Bharat mission.*
+
+**Are slums more vulnerable to the COVID-19 pandemic: Evidence from Mumbai**  
+Shaonlee Patranabis, Vaidehi Tandel, and Sahil Gandhi.  
+*CSEP India*, April 2020. [Link](https://csep.org/blog/are-slums-more-vulnerable-to-the-covid-19-pandemic-evidence-from-mumbai/)  
+*Early-pandemic analysis of differential COVID-19 vulnerability across Mumbai neighbourhoods, highlighting the role of density and infrastructure. Accompanies the JRS paper.*
+
+**Tragedy of the commons: How Smart Streets favor the elite**  
+Shaonlee Patranabis.  
+*Urban Resources Knowledges, TISS*, January 2018. [Link](https://theblogurk.wordpress.com/2018/01/27/tragedy-of-the-commons-how-smart-streets-favor-the-elite/)  
+*A critical look at how smart city infrastructure projects in Pune tend to displace informal users and reproduce spatial inequality.*
+
+---
+
+## Projects
+
+**Sun Probability Framework (SPF)**  
+*University of Liverpool, Imago — ongoing*
+
+The Sun Probability Framework is a satellite data fusion project that combines Sentinel-2 cloud probability data with HADUK-Grid sunshine hours to generate high-resolution environmental indices of sunlight exposure across Great Britain. The project uses regression-based downscaling and spatiotemporal fusion methods to produce granular, policy-relevant measures of the built environment — with applications ranging from health and wellbeing research to business performance analysis. Developed at [Imago](https://imago.ac.uk), the Smart Data Research UK Imagery Data Service.
