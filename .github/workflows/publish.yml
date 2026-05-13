@@ -15,10 +15,13 @@ jobs:
 
       - name: Render site
         uses: quarto-dev/quarto-actions/render@v2
+        with:
+          path: personal_website
 
       - name: Deploy to GitHub Pages
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
+          path: personal_website
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
