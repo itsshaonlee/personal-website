@@ -88,20 +88,20 @@ This paper examines colonial land tenure legacies in Mumbai, showing how ninetee
 
 ## Policy Work
 
-**India's housing paradox: Empty houses and housing shortages**
+**[India's housing paradox: Empty houses and housing shortages](https://csep.org/policy-brief/indias-housing-paradox-empty-houses-and-housing-shortages/)**
 Sahil Gandhi, Richard K. Green, and Shaonlee Patranabis.
-*CSEP Policy Brief*, February 2021. [Link](https://csep.org/policy-brief/indias-housing-paradox-empty-houses-and-housing-shortages/)
+*CSEP Policy Brief*, February 2021.
 
-**Can Property Rights Improve Access to Toilets for the Urban Poor? Evidence from India**
+**[Can Property Rights Improve Access to Toilets for the Urban Poor? Evidence from India](https://csep.org/working-paper/can-property-rights-improve-access-to-toilets-for-the-urban-poor-evidence-from-india/)**
 Shaonlee Patranabis and Sahil Gandhi.
-*CSEP Working Papers*, October 2021. [Link](https://csep.org/working-paper/can-property-rights-improve-access-to-toilets-for-the-urban-poor-evidence-from-india/)
+*CSEP Working Papers*, October 2021.
 
-**Are slums more vulnerable to the COVID-19 pandemic: Evidence from Mumbai**
+**[Are slums more vulnerable to the COVID-19 pandemic: Evidence from Mumbai](https://csep.org/blog/are-slums-more-vulnerable-to-the-covid-19-pandemic-evidence-from-mumbai/)**
 Shaonlee Patranabis, Vaidehi Tandel, and Sahil Gandhi.
-*CSEP India*, April 2020. [Link](https://csep.org/blog/are-slums-more-vulnerable-to-the-covid-19-pandemic-evidence-from-mumbai/)
+*CSEP India*, April 2020.
 
-**Tragedy of the commons: How Smart Streets favor the elite**
-Shaonlee Patranabis. *Urban Resources Knowledges, TISS*, January 2018. [Link](https://theblogurk.wordpress.com/2018/01/27/tragedy-of-the-commons-how-smart-streets-favor-the-elite/)
+**[Tragedy of the commons: How Smart Streets favor the elite](https://theblogurk.wordpress.com/2018/01/27/tragedy-of-the-commons-how-smart-streets-favor-the-elite/)**
+Shaonlee Patranabis. *Urban Resources Knowledges, TISS*, January 2018.
 
 ## Data Projects
 
@@ -139,6 +139,18 @@ Outside research, I mentor young women from South Asia who are pursuing careers 
 -->
 
 Coming soon.
+
+---
+
+## Contact {#contact}
+
+<div class="contact-box">
+
+I am always happy to hear from researchers, students, or practitioners working on related questions.
+
+<a href="mailto:S.Patranabis@liverpool.ac.uk" class="contact-email">S.Patranabis@liverpool.ac.uk</a>
+
+</div>
 
 <script>
 const _io = new IntersectionObserver(entries => {

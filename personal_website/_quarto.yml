@@ -16,6 +16,8 @@ website:
         href: "#about"
       - text: "CV"
         href: "#cv"
+      - text: "Contact"
+        href: "#contact"
 
   page-footer:
     left: "Shaonlee Patranabis"
