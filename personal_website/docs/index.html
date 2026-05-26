@@ -27,7 +27,6 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="site_libs/quarto-search/fuse.min.js"></script>
@@ -42,13 +41,13 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-acf12a64177840b8d86f2d4f01b2e9fb.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-cd210cde6d9682e66a61856b44a4e93f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-06dc73af40816e38c173dcbf14eaafff.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
-  "location": "sidebar",
+  "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
-  "panel-placement": "start",
-  "type": "textbox",
+  "panel-placement": "end",
+  "type": "overlay",
   "limit": 50,
   "keyboard-shortcut": [
     "f",
@@ -70,92 +69,155 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<style>html{ scroll-behavior: smooth; }</style>
 
 
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-sidebar docked fullcontent quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-  <nav class="quarto-secondary-nav">
-    <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-        <i class="bi bi-layout-text-sidebar-reverse"></i>
-      </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Home</a></li></ol></nav>
-        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-        </a>
-    </div>
-  </nav>
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Shaonlee Patranabis</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./#research"> 
+<span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./#about"> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./#cv"> 
+<span class="menu-text">CV</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header">
-    <div class="sidebar-title mb-0 py-0">
-      <a href="./">Shaonlee Patranabis</a> 
-    </div>
-      </div>
-    <div class="sidebar-menu-container"> 
-    <ul class="list-unstyled mt-1">
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Home</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./about.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">About</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./research.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Research</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./cv.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">CV</span></a>
-  </div>
-</li>
-    </ul>
-    </div>
-</nav>
-<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content page-columns page-full" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
 
-<div class="columns">
-<div class="column" style="width:30%;">
-<p><img src="profile.jpg" class="img-fluid" style="border-radius: 50%; width: 180px; display: block; margin: 0 auto 1.2rem;"></p>
-<div class="profile-links">
-<p><a href="mailto:S.Patranabis@liverpool.ac.uk">Email</a> <a href="cv.pdf">CV</a> <a href="https://github.com/itsshaonlee">GitHub</a> <a href="https://scholar.google.com/citations?user=pqWmC4gAAAAJ">Google Scholar</a> <a href="https://www.linkedin.com/in/shaonlee-patranabis-2541b649/">LinkedIn</a></p>
-</div>
-</div><div class="column" style="width:5%;">
-
-</div><div class="column" style="width:65%;">
-<section id="shaonlee-patranabis" class="level3">
+<div class="column-screen hero-section">
+<section id="shaonlee-patranabis" class="level3 hero-text">
 <h3 class="anchored" data-anchor-id="shaonlee-patranabis">Shaonlee Patranabis</h3>
 <p>Economic geographer and post-doctoral researcher at <a href="https://imago.liverpool.ac.uk">Imago</a>, University of Liverpool, and Visiting Fellow at the <a href="https://www.lse.ac.uk/geography-and-environment">LSE Department of Geography and Environment</a>. My research sits at the intersection of urban economics, colonial institutional history, and spatial inequality — with a growing interest in satellite remote sensing as a way to bring new data to bear on questions about cities in the Global South.</p>
 <p>My PhD at LSE examined how colonial and contemporary institutions shape persistent patterns of urban development and inequality in India.</p>
 <p>I love making maps, petting cats, and exploring cities.</p>
+<div class="profile-links" style="margin-top: 1.5rem;">
+<p><a href="mailto:S.Patranabis@liverpool.ac.uk">Email</a> <a href="cv.pdf">CV</a> <a href="https://github.com/itsshaonlee">GitHub</a> <a href="https://scholar.google.com/citations?user=pqWmC4gAAAAJ">Google Scholar</a> <a href="https://www.linkedin.com/in/shaonlee-patranabis-2541b649/">LinkedIn</a></p>
+</div>
 </section>
+<div class="hero-image">
+<p><img src="profile.jpg" alt="Shaonlee Patranabis"></p>
 </div>
 </div>
+<section id="research" class="level2">
+<h2 class="anchored" data-anchor-id="research">Research</h2>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true" href="">Publications</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false" href="">Working Papers</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-3" role="tab" aria-controls="tabset-1-3" aria-selected="false" href="">Policy Work</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-4-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-4" role="tab" aria-controls="tabset-1-4" aria-selected="false" href="">Data Projects</a></li></ul>
+<div class="tab-content">
+<div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
+<p><strong><a href="https://doi.org/10.1016/j.jue.2022.103490">Insecure property rights and the housing market: Explaining India’s housing vacancy paradox</a></strong> Sahil Gandhi, Richard K. Green, and <span class="author-self">Shaonlee Patranabis</span> <em>Journal of Urban Economics</em>, 131, 2022.</p>
+<details>
+<summary>
+Abstract
+</summary>
+One housing paradox in many markets is the simultaneous presence of high costs and high vacancy rates. India has expensive housing relative to incomes and an urban housing vacancy rate of 12.4%. We show how insecure property rights in India, as a result of rent control and weak contract enforcement, increases vacancy rates. Using a two-way linear fixed effects panel regression, we exploit changes in rent control laws in the states of West Bengal, Karnataka, Gujarat, and Maharashtra to find that pro-tenant laws are positively related to vacancy rates. A pro-landlord policy change liberalizing rent adjustments could potentially reduce vacancy rates by 2.8 to 3.1 percentage points. Contract enforcement measured by density of judges is negatively related to vacancy. We estimate that a policy change in rent control laws would have a net welfare benefit and could reduce India’s housing shortage by 7.5%.
+</details>
+<hr>
+<p><strong><a href="https://doi.org/10.1111/JORS.12552">Infrastructure, enforcement, and COVID-19 in Mumbai slums: A first look</a></strong> Vaidehi Tandel, Sahil Gandhi, Shaonlee Patranabis, Luís M.A.&nbsp;Bettencourt, and Anup Malani. <em>Journal of Regional Science</em>, 2021.</p>
+<details>
+<summary>
+Abstract
+</summary>
+This study is among the first to investigate whether patterns of access to basic services could explain the disproportionately severe impact of COVID-19 in slums. Using geolocated containment zones and COVID-19 case data for Mumbai, India’s most populous city, we find that cases and case fatality rates are higher in slums compared with formal residential buildings. Our results show that access to toilets for men is associated with lower COVID-19 prevalence. However, the effect is opposite in the case of toilets for women. This could be because limited hours for safely using toilets and higher waiting times increase the risk of exposure, and women and children sharing toilet facilities results in crowding. Proximity to water pipelines has no effect on prevalence, likely because slumdwellers are disconnected from formal water supply networks. Indoor crowding does not seem to have an effect on case prevalence. Finally, while police capacity—measured by number of police station outposts—is associated with lower prevalence in nonslum areas, indicating effective enforcement of containment, this relationship does not hold in slums. The study highlights the urgency of finding viable solutions for slum improvement and upgrading to mitigate the effects of contagion for some of the most vulnerable populations.
+</details>
+</div>
+<div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
+<p><strong>Opium of the Masses: Early Capitalists, Opium and Urbanisation in India</strong> Shaonlee Patranabis. 2026.</p>
+<details>
+<summary>
+Abstract
+</summary>
+This paper studies how colonial-era opium trade networks shaped long-term urbanisation patterns. Towns along indigenous opium trade routes grew 30% more than those along British-controlled routes between 1931–2011. I collate a database of treaties between Princely States and the British Raj to identify indigenous opium growing and trading areas, and leverage reports from the British Opium Agencies to map regions under opium cultivation in the British system and the routes to transport the product to the port of Calcutta. Using road, rail, and river network maps, I develop a multimodal transportation network database as it stood in the early 1930s, traversed by a graph search algorithm to identify towns along each trade route. Comparing towns under the two different commercial institutional setups, I find that indigenous trade-towns grew up to a third more than towns along British routes between 1931 and 2011.
+</details>
+<hr>
+<p><strong>Mortgage, Discrimination, and Tenure Choice in India</strong> Shaonlee Patranabis. 2026.</p>
+<details>
+<summary>
+Abstract
+</summary>
+This paper analyses the early expansion of mortgage markets in India (1983–2009), showing how the introduction of formal housing finance reinforced existing social discrimination against Scheduled Castes and Scheduled Tribes, while subsequent regulatory reforms reduced these disparities over time. I use the early, permission-based mortgage banking regime (1983–2002) to identify the discrimination faced by historically disadvantaged groups, then employ the share of early mortgage-providing branches and post-liberalisation reforms in a quasi-differences-in-differences framework to measure heterogeneities in homeownership in the face of new formal credit sources. The evidence shows that while discriminated social groups benefited less from the early proliferation of mortgage-giving institutions, later reforms had more equitable results.
+</details>
+<hr>
+<p><strong>Colonial Legacies and Housing Markets: Evidence from Mumbai</strong> Shaonlee Patranabis. 2026. Presented at the Early Career Conference in Land Economy, Cambridge (2023); UEA Copenhagen (2023).</p>
+<details>
+<summary>
+Abstract
+</summary>
+This paper examines colonial land tenure legacies in Mumbai, showing how nineteenth-century estate boundaries continue to constrain contemporary housing supply. Areas inside colonial estates added 59 sq.m. less residential construction per grid cell between 1975–2020 compared to neighbouring areas outside estate boundaries. The paper uses a novel dataset digitised from the first land settlement survey of what is now Mumbai (1827) to compare construction — formal and informal — on either side of estate boundaries using a boundary discontinuity design, with construction activity measured as a long difference using the Global Human Settlements Layer. This construction deficit translates to between 44,000 and 185,000 missing housing units, representing approximately 1.4% to 5.9% of Mumbai’s stock of residential units in 2011.
+</details>
+</div>
+<div id="tabset-1-3" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-3-tab">
+<p><strong>India’s housing paradox: Empty houses and housing shortages</strong> Sahil Gandhi, Richard K. Green, and Shaonlee Patranabis. <em>CSEP Policy Brief</em>, February 2021. <a href="https://csep.org/policy-brief/indias-housing-paradox-empty-houses-and-housing-shortages/">Link</a></p>
+<p><strong>Can Property Rights Improve Access to Toilets for the Urban Poor? Evidence from India</strong> Shaonlee Patranabis and Sahil Gandhi. <em>CSEP Working Papers</em>, October 2021. <a href="https://csep.org/working-paper/can-property-rights-improve-access-to-toilets-for-the-urban-poor-evidence-from-india/">Link</a></p>
+<p><strong>Are slums more vulnerable to the COVID-19 pandemic: Evidence from Mumbai</strong> Shaonlee Patranabis, Vaidehi Tandel, and Sahil Gandhi. <em>CSEP India</em>, April 2020. <a href="https://csep.org/blog/are-slums-more-vulnerable-to-the-covid-19-pandemic-evidence-from-mumbai/">Link</a></p>
+<p><strong>Tragedy of the commons: How Smart Streets favor the elite</strong> Shaonlee Patranabis. <em>Urban Resources Knowledges, TISS</em>, January 2018. <a href="https://theblogurk.wordpress.com/2018/01/27/tragedy-of-the-commons-how-smart-streets-favor-the-elite/">Link</a></p>
+</div>
+<div id="tabset-1-4" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-4-tab">
+<p><strong>Sun Probability Framework (SPF)</strong> <em>University of Liverpool, Imago — ongoing</em></p>
+<p>The Sun Probability Framework combines Sentinel-2 cloud probability data with HadUK-Grid sunshine hours to generate high-resolution indices of sunlight exposure across Great Britain. Developed at <a href="https://imago.ac.uk">Imago</a>, the Smart Data Research UK Imagery Data Service.</p>
+<p><a href="https://itsshaonlee.github.io/imago-spf-explorer/app/">Interactive Explorer</a> | <a href="https://imago.ac.uk/news/imago-releases-sun-probability-framework-spf-10-a-dataset-linking-cloudiness-to-people-and-places">Dataset Release</a></p>
+<p>Presented at the <a href="https://conferences.leeds.ac.uk/digitalfootprints/">Digital Footprints Conference</a>, York (2026).</p>
+</div>
+</div>
+</div>
+<hr>
+</section>
+<section id="about" class="level2">
+<h2 class="anchored" data-anchor-id="about">About</h2>
+<p>I am currently a Post-Doctoral Research Associate at <a href="https://imago.liverpool.ac.uk">Imago</a>, the UKRI Imagery Data Service at the University of Liverpool. I work on the Sun Probability Framework, a satellite data project that uses high-resolution Sentinel-2 cloud masks to make a measure of sunlight exposure across the UK. More broadly, I am excited about bringing imagery-derived data to bear on questions about equity, development, and housing where administrative data is scarce or unreliable.</p>
+<p>I grew up in India, and questions about cities — why some grow and others don’t, who gets to own a home, and how the past casts long shadows on the present — have shaped my research. My PhD at LSE’s Department of Geography and Environment examined how colonial institutions and contemporary financial markets together produce persistent patterns of spatial inequality and urban development in India.</p>
+<p>Before my PhD, I worked at the Centre for Social and Economic Policy (formerly Brookings Institution India Center) in New Delhi, where I worked on housing, property rights, and urban infrastructure. I hold a Master’s degree in Urban Policy and Governance from the Tata Institute of Social Sciences, Mumbai, and an undergraduate degree in Economics from the University of Delhi.</p>
+<p>Outside research, I mentor young women from South Asia who are pursuing careers in economics and policy.</p>
+<hr>
+</section>
+<section id="cv" class="level2">
+<h2 class="anchored" data-anchor-id="cv">CV</h2>
+<!-- PDF embed — add cv.pdf to the personal_website/ folder to activate -->
+<!--
+<a href="cv.pdf" download style="font-size: 0.85rem; float: right; margin-bottom: 1rem;">Download PDF</a>
+<iframe src="cv.pdf" width="100%" height="1000px" style="border: none; display: block; clear: both;"></iframe>
+-->
+<p>Coming soon.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -572,7 +634,7 @@ ul.task-list li input[type="checkbox"] {
 </a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link active" href="./cv.html" aria-current="page">
+    <a class="nav-link" href="./cv.html">
 <p>CV</p>
 </a>
   </li>  
@@ -594,7 +656,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
     </div>
     <div class="nav-footer-right">
-<p>© 2025</p>
+<p>© 2026</p>
 </div>
   </div>
 </footer>
@@ -602,4 +664,5 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

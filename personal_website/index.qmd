@@ -4,23 +4,9 @@ page-layout: article
 toc: false
 ---
 
-:::: {.columns}
-::: {.column width="30%"}
-![](profile.jpg){style="border-radius: 50%; width: 180px; display: block; margin: 0 auto 1.2rem;"}
+::: {.column-screen .hero-section}
+<div class="hero-text">
 
-<div class="profile-links">
-<a href="mailto:S.Patranabis@liverpool.ac.uk">Email</a>
-<a href="cv.pdf">CV</a>
-<a href="https://github.com/itsshaonlee">GitHub</a>
-<a href="https://scholar.google.com/citations?user=pqWmC4gAAAAJ">Google Scholar</a>
-<a href="https://www.linkedin.com/in/shaonlee-patranabis-2541b649/">LinkedIn</a>
-</div>
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="65%"}
 ### Shaonlee Patranabis
 
 Economic geographer and post-doctoral researcher at [Imago](https://imago.liverpool.ac.uk), University of Liverpool, and Visiting Fellow at the [LSE Department of Geography and Environment](https://www.lse.ac.uk/geography-and-environment). My research sits at the intersection of urban economics, colonial institutional history, and spatial inequality — with a growing interest in satellite remote sensing as a way to bring new data to bear on questions about cities in the Global South.
@@ -28,5 +14,141 @@ Economic geographer and post-doctoral researcher at [Imago](https://imago.liverp
 My PhD at LSE examined how colonial and contemporary institutions shape persistent patterns of urban development and inequality in India.
 
 I love making maps, petting cats, and exploring cities.
+
+<div class="profile-links" style="margin-top: 1.5rem;">
+<a href="mailto:S.Patranabis@liverpool.ac.uk">Email</a>
+<a href="cv.pdf">CV</a>
+<a href="https://github.com/itsshaonlee">GitHub</a>
+<a href="https://scholar.google.com/citations?user=pqWmC4gAAAAJ">Google Scholar</a>
+<a href="https://www.linkedin.com/in/shaonlee-patranabis-2541b649/">LinkedIn</a>
+</div>
+
+</div>
+<div class="hero-image">
+<img src="profile.jpg" alt="Shaonlee Patranabis">
+</div>
 :::
-::::
+
+## Research {#research}
+
+::: {.panel-tabset}
+
+## Publications
+
+**[Insecure property rights and the housing market: Explaining India's housing vacancy paradox](https://doi.org/10.1016/j.jue.2022.103490)**
+Sahil Gandhi, Richard K. Green, and [Shaonlee Patranabis]{.author-self}
+*Journal of Urban Economics*, 131, 2022.
+
+<details>
+<summary>Abstract</summary>
+One housing paradox in many markets is the simultaneous presence of high costs and high vacancy rates. India has expensive housing relative to incomes and an urban housing vacancy rate of 12.4%. We show how insecure property rights in India, as a result of rent control and weak contract enforcement, increases vacancy rates. Using a two-way linear fixed effects panel regression, we exploit changes in rent control laws in the states of West Bengal, Karnataka, Gujarat, and Maharashtra to find that pro-tenant laws are positively related to vacancy rates. A pro-landlord policy change liberalizing rent adjustments could potentially reduce vacancy rates by 2.8 to 3.1 percentage points. Contract enforcement measured by density of judges is negatively related to vacancy. We estimate that a policy change in rent control laws would have a net welfare benefit and could reduce India's housing shortage by 7.5%.
+</details>
+
+---
+
+**[Infrastructure, enforcement, and COVID-19 in Mumbai slums: A first look](https://doi.org/10.1111/JORS.12552)**
+Vaidehi Tandel, Sahil Gandhi, Shaonlee Patranabis, Luís M.A. Bettencourt, and Anup Malani.
+*Journal of Regional Science*, 2021.
+
+<details>
+<summary>Abstract</summary>
+This study is among the first to investigate whether patterns of access to basic services could explain the disproportionately severe impact of COVID-19 in slums. Using geolocated containment zones and COVID-19 case data for Mumbai, India's most populous city, we find that cases and case fatality rates are higher in slums compared with formal residential buildings. Our results show that access to toilets for men is associated with lower COVID-19 prevalence. However, the effect is opposite in the case of toilets for women. This could be because limited hours for safely using toilets and higher waiting times increase the risk of exposure, and women and children sharing toilet facilities results in crowding. Proximity to water pipelines has no effect on prevalence, likely because slumdwellers are disconnected from formal water supply networks. Indoor crowding does not seem to have an effect on case prevalence. Finally, while police capacity—measured by number of police station outposts—is associated with lower prevalence in nonslum areas, indicating effective enforcement of containment, this relationship does not hold in slums. The study highlights the urgency of finding viable solutions for slum improvement and upgrading to mitigate the effects of contagion for some of the most vulnerable populations.
+</details>
+
+## Working Papers
+
+**Opium of the Masses: Early Capitalists, Opium and Urbanisation in India**
+Shaonlee Patranabis. 2026.
+
+<details>
+<summary>Abstract</summary>
+This paper studies how colonial-era opium trade networks shaped long-term urbanisation patterns. Towns along indigenous opium trade routes grew 30% more than those along British-controlled routes between 1931–2011. I collate a database of treaties between Princely States and the British Raj to identify indigenous opium growing and trading areas, and leverage reports from the British Opium Agencies to map regions under opium cultivation in the British system and the routes to transport the product to the port of Calcutta. Using road, rail, and river network maps, I develop a multimodal transportation network database as it stood in the early 1930s, traversed by a graph search algorithm to identify towns along each trade route. Comparing towns under the two different commercial institutional setups, I find that indigenous trade-towns grew up to a third more than towns along British routes between 1931 and 2011.
+</details>
+
+---
+
+**Mortgage, Discrimination, and Tenure Choice in India**
+Shaonlee Patranabis. 2026.
+
+<details>
+<summary>Abstract</summary>
+This paper analyses the early expansion of mortgage markets in India (1983–2009), showing how the introduction of formal housing finance reinforced existing social discrimination against Scheduled Castes and Scheduled Tribes, while subsequent regulatory reforms reduced these disparities over time. I use the early, permission-based mortgage banking regime (1983–2002) to identify the discrimination faced by historically disadvantaged groups, then employ the share of early mortgage-providing branches and post-liberalisation reforms in a quasi-differences-in-differences framework to measure heterogeneities in homeownership in the face of new formal credit sources. The evidence shows that while discriminated social groups benefited less from the early proliferation of mortgage-giving institutions, later reforms had more equitable results.
+</details>
+
+---
+
+**Colonial Legacies and Housing Markets: Evidence from Mumbai**
+Shaonlee Patranabis. 2026.
+Presented at the Early Career Conference in Land Economy, Cambridge (2023); UEA Copenhagen (2023).
+
+<details>
+<summary>Abstract</summary>
+This paper examines colonial land tenure legacies in Mumbai, showing how nineteenth-century estate boundaries continue to constrain contemporary housing supply. Areas inside colonial estates added 59 sq.m. less residential construction per grid cell between 1975–2020 compared to neighbouring areas outside estate boundaries. The paper uses a novel dataset digitised from the first land settlement survey of what is now Mumbai (1827) to compare construction — formal and informal — on either side of estate boundaries using a boundary discontinuity design, with construction activity measured as a long difference using the Global Human Settlements Layer. This construction deficit translates to between 44,000 and 185,000 missing housing units, representing approximately 1.4% to 5.9% of Mumbai's stock of residential units in 2011.
+</details>
+
+## Policy Work
+
+**India's housing paradox: Empty houses and housing shortages**
+Sahil Gandhi, Richard K. Green, and Shaonlee Patranabis.
+*CSEP Policy Brief*, February 2021. [Link](https://csep.org/policy-brief/indias-housing-paradox-empty-houses-and-housing-shortages/)
+
+**Can Property Rights Improve Access to Toilets for the Urban Poor? Evidence from India**
+Shaonlee Patranabis and Sahil Gandhi.
+*CSEP Working Papers*, October 2021. [Link](https://csep.org/working-paper/can-property-rights-improve-access-to-toilets-for-the-urban-poor-evidence-from-india/)
+
+**Are slums more vulnerable to the COVID-19 pandemic: Evidence from Mumbai**
+Shaonlee Patranabis, Vaidehi Tandel, and Sahil Gandhi.
+*CSEP India*, April 2020. [Link](https://csep.org/blog/are-slums-more-vulnerable-to-the-covid-19-pandemic-evidence-from-mumbai/)
+
+**Tragedy of the commons: How Smart Streets favor the elite**
+Shaonlee Patranabis. *Urban Resources Knowledges, TISS*, January 2018. [Link](https://theblogurk.wordpress.com/2018/01/27/tragedy-of-the-commons-how-smart-streets-favor-the-elite/)
+
+## Data Projects
+
+**Sun Probability Framework (SPF)**
+*University of Liverpool, Imago — ongoing*
+
+The Sun Probability Framework combines Sentinel-2 cloud probability data with HadUK-Grid sunshine hours to generate high-resolution indices of sunlight exposure across Great Britain. Developed at [Imago](https://imago.ac.uk), the Smart Data Research UK Imagery Data Service.
+
+[Interactive Explorer](https://itsshaonlee.github.io/imago-spf-explorer/app/) | [Dataset Release](https://imago.ac.uk/news/imago-releases-sun-probability-framework-spf-10-a-dataset-linking-cloudiness-to-people-and-places)
+
+Presented at the [Digital Footprints Conference](https://conferences.leeds.ac.uk/digitalfootprints/), York (2026).
+
+:::
+
+---
+
+## About {#about}
+
+I am currently a Post-Doctoral Research Associate at [Imago](https://imago.liverpool.ac.uk), the UKRI Imagery Data Service at the University of Liverpool. I work on the Sun Probability Framework, a satellite data project that uses high-resolution Sentinel-2 cloud masks to make a measure of sunlight exposure across the UK. More broadly, I am excited about bringing imagery-derived data to bear on questions about equity, development, and housing where administrative data is scarce or unreliable.
+
+I grew up in India, and questions about cities — why some grow and others don't, who gets to own a home, and how the past casts long shadows on the present — have shaped my research. My PhD at LSE's Department of Geography and Environment examined how colonial institutions and contemporary financial markets together produce persistent patterns of spatial inequality and urban development in India.
+
+Before my PhD, I worked at the Centre for Social and Economic Policy (formerly Brookings Institution India Center) in New Delhi, where I worked on housing, property rights, and urban infrastructure. I hold a Master's degree in Urban Policy and Governance from the Tata Institute of Social Sciences, Mumbai, and an undergraduate degree in Economics from the University of Delhi.
+
+Outside research, I mentor young women from South Asia who are pursuing careers in economics and policy.
+
+---
+
+## CV {#cv}
+
+<!-- PDF embed — add cv.pdf to the personal_website/ folder to activate -->
+<!--
+<a href="cv.pdf" download style="font-size: 0.85rem; float: right; margin-bottom: 1rem;">Download PDF</a>
+<iframe src="cv.pdf" width="100%" height="1000px" style="border: none; display: block; clear: both;"></iframe>
+-->
+
+Coming soon.
+
+<script>
+const _io = new IntersectionObserver(entries => {
+  entries.forEach(e => {
+    if (e.isIntersecting) { e.target.classList.add('in-view'); _io.unobserve(e.target); }
+  });
+}, { threshold: 0.08 });
+
+document.querySelectorAll('h2, .panel-tabset').forEach(el => {
+  el.classList.add('fade-up');
+  _io.observe(el);
+});
+</script>

@@ -4,22 +4,18 @@ project:
 
 execute:
   freeze: auto
-  
+
 website:
   title: "Shaonlee Patranabis"
-  sidebar:
-    style: "docked"
-    title: false
-    search: false
-    contents:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
-      - href: research.qmd
-        text: Research
-      - href: cv.qmd
-        text: CV
+  navbar:
+    pinned: true
+    left:
+      - text: "Research"
+        href: "#research"
+      - text: "About"
+        href: "#about"
+      - text: "CV"
+        href: "#cv"
 
   page-footer:
     left: "Shaonlee Patranabis"
@@ -34,12 +30,12 @@ website:
         href: https://scholar.google.com/citations?user=pqWmC4gAAAAJ&hl=en
       - text: "LinkedIn"
         href: https://www.linkedin.com/in/shaonlee-patranabis-2541b649/
-    right: "© 2025"
+    right: "© 2026"
 
 format:
   html:
     theme: lux
     css: styles.css
-    toc: true
-    toc-depth: 2
+    toc: false
+    smooth-scroll: true
     highlight-style: github
