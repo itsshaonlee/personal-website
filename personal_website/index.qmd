@@ -132,13 +132,8 @@ Outside research, I mentor young women from South Asia who are pursuing careers 
 
 ## CV {#cv}
 
-<!-- PDF embed — add cv.pdf to the personal_website/ folder to activate -->
-<!--
 <a href="cv.pdf" download style="font-size: 0.85rem; float: right; margin-bottom: 1rem;">Download PDF</a>
 <iframe src="cv.pdf" width="100%" height="1000px" style="border: none; display: block; clear: both;"></iframe>
--->
-
-Coming soon.
 
 ---
 
